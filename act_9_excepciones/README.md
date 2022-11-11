@@ -13,4 +13,4 @@
 
 `Para ejecutar el script --> python3 app.py`
 
-[Volver](../README.md)
+[Volver](../)

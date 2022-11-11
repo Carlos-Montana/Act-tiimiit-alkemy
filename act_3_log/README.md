@@ -16,4 +16,4 @@
 `Para ejecutar los scripts escribir en la linea de comandos, python3 /src/logs.py`
 
 
-[Volver](../README.md)
+[Volver](../)

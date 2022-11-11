@@ -13,4 +13,4 @@
 ### Resolución
 `Para correr este script que retorna el numero de caracteres de la lista recibida --> python3 coment.py`
 
-[Volver](../README.md)
+[Volver](../)

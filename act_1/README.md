@@ -38,4 +38,4 @@ pip freeze > requirements-env2.txt
 deactivate (desactiva el entorno)
 ```
 
-[volver](../)
+[volver](../README.md)

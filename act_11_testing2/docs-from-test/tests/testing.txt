@@ -1,0 +1,76 @@
+
+******************TESTING**************************
+11/01/2022, 21:59:26
+test_add_arguments_more_two (__main__.TestCalculadora)
+check if numbers arguments is more than 2 ... ok
+test_add_is_equal (__main__.TestCalculadora)
+Test that the sum is correct ... ok
+test_add_negative (__main__.TestCalculadora)
+Test that the sum of negatives numbers is correct ... ok
+test_checking_if_divisor_is_zero (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_if_substraction_is_not_numeric (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_is_not_numeric (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_is_not_numeric_div (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_multiplication_is_not_numeric (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_divide_is_equal (__main__.TestCalculadora)
+Test that the multiplication is correct ... ok
+test_multiplication_arguments_more_two (__main__.TestCalculadora)
+check if numbers arguments is more than 2 ... ok
+test_multiplication_is_equal (__main__.TestCalculadora)
+Test that the multiplication is correct ... ok
+test_multiplication_negative (__main__.TestCalculadora)
+Test that the sum of negatives numbers is correct ... ok
+test_substract_is_empty (__main__.TestCalculadora)
+Test that the lista of arguments is empty ... ok
+test_substract_is_equal (__main__.TestCalculadora)
+Test that the multiplication is correct ... ok
+test_substraction_negative (__main__.TestCalculadora)
+Test that the substract of negatives numbers is correct ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.001s
+
+OK
+
+******************TESTING**************************
+11/01/2022, 22:02:35
+test_add_arguments_more_two (__main__.TestCalculadora)
+check if numbers arguments is more than 2 ... ok
+test_add_is_equal (__main__.TestCalculadora)
+Test that the sum is correct ... ok
+test_add_negative (__main__.TestCalculadora)
+Test that the sum of negatives numbers is correct ... ok
+test_checking_if_divisor_is_zero (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_if_substraction_is_not_numeric (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_is_not_numeric (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_is_not_numeric_div (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_checking_multiplication_is_not_numeric (__main__.TestCalculadora)
+Test that arguments are numerical ... ok
+test_divide_is_equal (__main__.TestCalculadora)
+Test that the multiplication is correct ... ok
+test_multiplication_arguments_more_two (__main__.TestCalculadora)
+check if numbers arguments is more than 2 ... ok
+test_multiplication_is_equal (__main__.TestCalculadora)
+Test that the multiplication is correct ... ok
+test_multiplication_negative (__main__.TestCalculadora)
+Test that the sum of negatives numbers is correct ... ok
+test_substract_is_empty (__main__.TestCalculadora)
+Test that the lista of arguments is empty ... ok
+test_substract_is_equal (__main__.TestCalculadora)
+Test that the multiplication is correct ... ok
+test_substraction_negative (__main__.TestCalculadora)
+Test that the substract of negatives numbers is correct ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.001s
+
+OK

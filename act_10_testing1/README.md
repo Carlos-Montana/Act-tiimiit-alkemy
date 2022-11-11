@@ -17,6 +17,7 @@
 
 ### Resolución
 
+****
 `Para correr los test puede ser de 2 formas:` <br>
 *Forma 1* <br>
 ```bash
@@ -26,5 +27,6 @@ python3 -m unittest test_calculadora.py -v
 ```bash
 python3 test_calculadora.py -v
 ```
+****
 
-[Volver](../)
+[Volver](../README.md)

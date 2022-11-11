@@ -37,6 +37,8 @@
     palabras por cada una de ellas.
 
 ### Resolucíon
+****
 `En esta actividad desarrolle toda la logica en el script main ejecutando --> python3 /editorial/main.py`
+****
 
-[Volver](../)
+[Volver](../README.md)

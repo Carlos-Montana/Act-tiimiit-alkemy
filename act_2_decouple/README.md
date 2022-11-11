@@ -16,7 +16,7 @@
 
 ### Resolución
 
-
+****
 `Dentro de la carpeta /src se encuentran los scripts para poder ejecutarlos, levantar el entorno con virtual env, instalar el requirements.txt. Y paralelos a esto levantar un entorno docker con mysql para que se puedan ejecutar exitosamente los scripts y listo. 
 `
 ```bash
@@ -32,6 +32,6 @@
 *Desde una consola bash*
 sudo docker run --name mysql -e MYSQL_ROOT_PASSWORD=123456 -d mysql:latest
 ```
+****
 
-
-[volver](../)
+[Volver](../README.md)

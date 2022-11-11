@@ -16,6 +16,7 @@
 
 ### Resolución
 
+****
 `En este ejercicio cree un logger custom y otro de airflow que se ejecuta cuando ejecutamos el dag`
 `Importante tener instalado Airflow en local o por medio de docker`<br>
 *En local* <br>
@@ -27,5 +28,6 @@ airflow scheduler
 ```
 *En docker* <br>
 [Instalacion desde docker](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
+****
 
-[Volver](../)
+[Volver](../README.md)

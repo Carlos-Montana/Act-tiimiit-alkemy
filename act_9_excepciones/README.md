@@ -11,6 +11,8 @@
 
 ### Resolución
 
+****
 `Para ejecutar el script --> python3 app.py`
+****
 
-[Volver](../)
+[Volver](../README.md)

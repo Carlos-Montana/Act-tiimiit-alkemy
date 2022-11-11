@@ -13,7 +13,8 @@
     Logging de la librería estándar de Python.
 
 ### Resolución
+****
 `Para ejecutar los scripts escribir en la linea de comandos, python3 /src/logs.py`
+****
 
-
-[Volver](../)
+[Volver](../README.md)

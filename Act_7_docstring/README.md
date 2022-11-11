@@ -18,6 +18,7 @@
 
 ### Resolución
 
+****
 `Para resolver esta actividad cree un entorno virtual, luego lo active, instale la libreria sphinx para poder crear documentación ayudado por los docstring dentro de mi codigo.`
 
 ```bash
@@ -30,5 +31,6 @@ Despues podemos correr el script
 python /docstring-sphinx/source/main.py
 deactivate (para desactivar el entorno virtual)
 ```
+****
 
-[Volver](../)
+[Volver](../README.md)

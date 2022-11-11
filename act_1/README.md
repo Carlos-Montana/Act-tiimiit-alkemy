@@ -15,6 +15,8 @@
     8- Verificar el contenido del archivo generado en cada uno de los
     ambientes.
 ### Resolución
+
+****
 - Cree dos entornos virtuales con:
 ```bash
 pip install virtualenv
@@ -37,5 +39,6 @@ pip install pandas==1.5.0 matplotlib==3.5
 pip freeze > requirements-env2.txt
 deactivate (desactiva el entorno)
 ```
+****
 
-[volver](../README.md)
+[Volver](../README.md)

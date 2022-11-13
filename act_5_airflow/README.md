@@ -18,7 +18,9 @@
 
 ****
 `En este ejercicio cree un logger custom y otro de airflow que se ejecuta cuando ejecutamos el dag`
+
 `Importante tener instalado Airflow en local o por medio de docker`<br>
+
 *En local* <br>
 [Instalacion en local](https://airflow.apache.org/docs/apache-airflow/stable/start.html)
 > En mi caso use la instalación local

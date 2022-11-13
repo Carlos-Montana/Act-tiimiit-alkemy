@@ -31,6 +31,9 @@ python test.py
 python test_calculadora.py
 ```
 `En la misma carpeta se genera el archivo .txt, puedes verlo `[pinchando aqui](./docs-from-test/tests/testing.txt)
+
+>*Recomendación*: **Abrir links en pestaña nueva.**
+
 ```bash
 deactivate (desactivar el entorno virtual)
 ```

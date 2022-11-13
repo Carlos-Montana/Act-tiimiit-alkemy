@@ -16,6 +16,8 @@ python3 -m virtualenv env
 source /env/bin/activate
 pip install docs-from-test
 ```
+>*Recomendación*: **Abrir links en pestaña nueva.**
+
 > **Primera Implementación**
 
 `Despues ingresamos a la carpeta docs-from-test y luego tests y ejecutamos`
@@ -31,8 +33,6 @@ python test.py
 python test_calculadora.py
 ```
 `En la misma carpeta se genera el archivo .txt, puedes verlo `[pinchando aqui](./docs-from-test/tests/testing.txt)
-
->*Recomendación*: **Abrir links en pestaña nueva.**
 
 ```bash
 deactivate (desactivar el entorno virtual)

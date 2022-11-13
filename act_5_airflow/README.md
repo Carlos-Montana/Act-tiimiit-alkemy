@@ -21,11 +21,14 @@
 `Importante tener instalado Airflow en local o por medio de docker`<br>
 *En local* <br>
 [Instalacion en local](https://airflow.apache.org/docs/apache-airflow/stable/start.html)
+> En mi caso use la instalación local
 ```bash
 Ejecutar los siguientes comando para arrancarlo:
 airflow webserver
 airflow scheduler
 ```
+> Luego en el navegador ingresar a http://localhost:8080 e iniciar el dag, los archivos logs se crearan en sus respectivos lugares.
+
 *En docker* <br>
 [Instalacion desde docker](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
 ****

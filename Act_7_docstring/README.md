@@ -31,6 +31,7 @@ Despues podemos correr el script
 python /docstring-sphinx/source/main.py
 deactivate (para desactivar el entorno virtual)
 ```
+> Tambien puedes [pinchar aqui](./docstring-sphinx/_build/html/index.html) para ver directamente la documentación.
 ****
 
 [Volver](../README.md)

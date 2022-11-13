@@ -10,25 +10,25 @@
     3. Contar la cantidad de palabras que tiene cada renglón.
     El programa debe generar 2 archivos de logs que se almacenen en
     la carpeta Logs
-    ● En el primero se debe registrar si se pudo leer el archivo o no.
-    Utilizar el formato con el que se detalla a continuación.
-    ● El segundo archivo de log debe contener:
-        ○ nombre del archivo y cantidad de renglones
-        ○ nombre del archivo, renglón [nro] y cantidad letras [nro]
+        ● En el primero se debe registrar si se pudo leer el archivo o no.
+        Utilizar el formato con el que se detalla a continuación.
+        ● El segundo archivo de log debe contener:
+            ○ nombre del archivo y cantidad de renglones
+            ○ nombre del archivo, renglón [nro] y cantidad letras [nro]
     El programa debe tener la siguiente estructura de carpetas y archivos.
-    editorial
-    |---- main.py
-    |---- functions.py
-    |---- log_config_file.conf
-    |---- cuento.txt
-    |---- Logs (folder)
+        editorial
+        |---- main.py
+        |---- functions.py
+        |---- log_config_file.conf
+        |---- cuento.txt
+        |---- Logs (folder)
     Pasos a seguir:
     1. Crear el archivo log_config_file.conf: El mismo debe tener 2 loggers
-    a. Logger main
-    b. Logger functions
+        a. Logger main
+        b. Logger functions
     2. Cada logger debe tener 2 handlers:
-    a. Para imprimir los mensajes en consola
-    b. Para generar los archivos .log en la carpeta Logs.
+        a. Para imprimir los mensajes en consola
+        b. Para generar los archivos .log en la carpeta Logs.
     3. Utilizar el archivo main.py para abrir el cuentotxt y generar los logs
     utilizando el logger main para indicar si se está procesando o no el
     cuento.txt.

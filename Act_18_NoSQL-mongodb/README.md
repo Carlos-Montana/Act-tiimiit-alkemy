@@ -30,7 +30,7 @@ docker run --name mongodb -p 27017:27017 mongo:latest
 docker exec -it mongodb bash
 
 # Una vez dentro iniciamos mongo y luego creamos la db
-> mongo
+> mongosh
 > use test;
 
 # Creando colecciones e insertando un documento

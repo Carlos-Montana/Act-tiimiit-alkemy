@@ -18,5 +18,7 @@
 - [Actividad 13 - Base de Datos - DDL](./act_13_sql-ddl)
 - [Actividad 14 - Base de Datos - DML](./act_14_sql-dml)
 - [Actividad 16 - Acceso a Base de Datos - ORM - SqlAlchemy](./Act_16_ORM)
+- [Actividad 17 - Api REST - Flask](./Act_17_Apis-Flask)
+- [Actividad 18 - Base de Datos NoSQL - MongoDB](./Act_18_NoSQL-mongodb)
 
 ****

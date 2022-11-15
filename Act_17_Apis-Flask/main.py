@@ -61,7 +61,6 @@ def listar_archivo():
     # curl http://localhost:5000/listar
     with open('texto.txt', 'r', encoding='UTF-8') as f:
         lista_objetos = f.read()
-        lista_objetos = lista_objetos
     return lista_objetos
 
 

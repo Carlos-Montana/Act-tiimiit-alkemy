@@ -4,7 +4,7 @@
 
 `Para este ejemplo básico, cree una api que devuelve algo de info de la petición y un lista de prueba`
 
-### Para esta actividad usaremos python, un entorno vitual, el modulo flask y una terminal o navegador para visualizar los resultados obtenidos.
+### Usaremos python, un entorno vitual, el modulo flask y una terminal o navegador para visualizar los resultados obtenidos.
 
 ```bash
 # Iniciamos el entorno vitual e instalamos flask
@@ -17,7 +17,7 @@ python main.py
 ```
 > Servidor en: http://localhost:5000
 
-### *Accediendo a los diferentes end points siguientes o urls donde se pueden vizualizar la info y lista.*
+### *Accediendo a los diferentes endpoints o urls donde se pueden vizualizar la info y lista.*
 <br>
 
 ```bash

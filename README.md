@@ -20,6 +20,6 @@
 - [Actividad 16 - Acceso a Base de Datos - ORM - SqlAlchemy](./Act_16_ORM)
 - [Actividad 17 - Api REST - Flask](./Act_17_Apis-Flask)
 - [Actividad 18 - Base de Datos NoSQL - MongoDB](./Act_18_NoSQL-mongodb)
-- [Actividad 19 - Datos con Pandas](./Act_19_Pandas)
+- [Actividad 19 - Datos con Pandas](./Act_19_Pandas/pandas.ipynb)
 
 ****

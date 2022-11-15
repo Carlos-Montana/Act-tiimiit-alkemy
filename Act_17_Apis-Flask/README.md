@@ -36,4 +36,9 @@ python main.py
 # Pagina listar cadenas de un archivo -- metodo GET
 > Terminal o cmd : curl http://localhost:5000/listar
 > Navegador web  : http://localhost:5000/listar
+
+# Desactivamos entorno virtual
+deactivate
 ```
+
+[Volver](../README.md)

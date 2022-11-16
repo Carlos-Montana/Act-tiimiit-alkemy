@@ -21,5 +21,6 @@
 - [Actividad 17 - Api REST - Flask](./Act_17_Apis-Flask)
 - [Actividad 18 - Base de Datos NoSQL - MongoDB](./Act_18_NoSQL-mongodb)
 - [Actividad 19 - Datos con Pandas](./Act_19_Pandas/pandas.ipynb)
+- [Actividad 19 - Datos con Pandas II](./Act_20_Pandas_II/Act_20_pandas-II.ipynb)
 
 ****
